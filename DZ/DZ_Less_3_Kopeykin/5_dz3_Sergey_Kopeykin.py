@@ -16,7 +16,7 @@ def f_get_summary(*args):
         try:
             a += float(argument)
         except ValueError:
-            if argument in '!@#$%^&*':  # я вот так понял условие про выход
+            if len(argument) > 0 and argument in '!@#$%^&*':  # я вот так понял условие про выход
                 print('Дана команда на выход...')
                 b_switch = False
     return a
