@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32d6895e-2181-410e-bbd2-d6d1dffb823b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DZ_Less_3_Kopeykin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_dz3_Sergey_Kopeykin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_dz3_Kopeykin_Sergey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_dz3_Sergey_Kopeykin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_dz3_Sergey_Kopeykin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_dz3_Sergey_Kopeykin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_dz3_Sergey_kopeykin.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YcDZCFZ7uzkfgCB0BgSrf4fyHB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RunManager" selected="Python.6_dz3_Sergey_kopeykin">
+    <configuration name="2_dz3_Kopeykin_Sergey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DZ_Less_3_Kopeykin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_dz3_Kopeykin_Sergey.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_dz3_Sergey_Kopeykin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DZ_Less_3_Kopeykin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_dz3_Sergey_Kopeykin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_dz3_Sergey_Kopeykin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DZ_Less_3_Kopeykin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_dz3_Sergey_Kopeykin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5_dz3_Sergey_Kopeykin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DZ_Less_3_Kopeykin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_dz3_Sergey_Kopeykin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_dz3_Sergey_kopeykin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DZ_Less_3_Kopeykin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dz3_Sergey_kopeykin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.6_dz3_Sergey_kopeykin" />
+        <item itemvalue="Python.5_dz3_Sergey_Kopeykin" />
+        <item itemvalue="Python.4_dz3_Sergey_Kopeykin" />
+        <item itemvalue="Python.2_dz3_Kopeykin_Sergey" />
+        <item itemvalue="Python.3_dz3_Sergey_Kopeykin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32d6895e-2181-410e-bbd2-d6d1dffb823b" name="Default Changelist" comment="" />
+      <created>1583233042569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583233042569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="200" width="800" height="684" key="#Inspections" timestamp="1583317342837">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="470" y="200" width="800" height="684" key="#Inspections/70.27.1610.1023@70.27.1610.1023" timestamp="1583317342837" />
+    <state x="528" y="343" width="684" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583247149070">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="528" y="343" width="684" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1610.1023@70.27.1610.1023" timestamp="1583247149070" />
+    <state x="611" y="394" width="518" height="296" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583245589066">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="611" y="394" width="518" height="296" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/70.27.1610.1023@70.27.1610.1023" timestamp="1583245589066" />
+    <state width="1587" height="266" key="GridCell.Tab.0.bottom" timestamp="1583322649525">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1587" height="266" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1583322649525" />
+    <state width="1587" height="266" key="GridCell.Tab.0.center" timestamp="1583322649523">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1587" height="266" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1583322649523" />
+    <state width="1587" height="266" key="GridCell.Tab.0.left" timestamp="1583322649523">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1587" height="266" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1583322649523" />
+    <state width="1587" height="266" key="GridCell.Tab.0.right" timestamp="1583322649524">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1587" height="266" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1583322649524" />
+    <state width="1587" height="328" key="GridCell.Tab.1.bottom" timestamp="1583320928500">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1587" height="328" key="GridCell.Tab.1.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1583320928500" />
+    <state width="1587" height="328" key="GridCell.Tab.1.center" timestamp="1583320928499">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1587" height="328" key="GridCell.Tab.1.center/70.27.1610.1023@70.27.1610.1023" timestamp="1583320928499" />
+    <state width="1587" height="328" key="GridCell.Tab.1.left" timestamp="1583320928499">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1587" height="328" key="GridCell.Tab.1.left/70.27.1610.1023@70.27.1610.1023" timestamp="1583320928499" />
+    <state width="1587" height="328" key="GridCell.Tab.1.right" timestamp="1583320928500">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1587" height="328" key="GridCell.Tab.1.right/70.27.1610.1023@70.27.1610.1023" timestamp="1583320928500" />
+    <state x="623" y="200" width="494" height="683" key="RollbackChangesDialog" timestamp="1583247026192">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="623" y="200" width="494" height="683" key="RollbackChangesDialog/70.27.1610.1023@70.27.1610.1023" timestamp="1583247026192" />
+    <state x="531" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1583310624358">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="531" y="366" key="com.intellij.ide.util.TipDialog/70.27.1610.1023@70.27.1610.1023" timestamp="1583310624358" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5_dz3_Sergey_Kopeykin.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="argument in '!@#$%^&amp;*'" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
