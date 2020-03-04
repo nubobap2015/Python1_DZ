@@ -5,9 +5,8 @@
 # должно начинаться с заглавной буквы. Необходимо использовать написанную ранее функцию int_func().
 
 
-# функция из разряда "THE BEST"
-def int_func(a_text):
-    return str(a_text).capitalize()
+# из разряда "THE BEST"
+int_func = lambda a_text: str(a_text).capitalize()
 
 
 def int_func2(a_text):
@@ -22,6 +21,6 @@ def int_func2(a_text):
 a_string = 'тут нужна строка из слов, разделенных пробелом:    ff'
 a_string2 = ''
 for item in a_string.split(' '):
-    a_string2 += int_func2(item) + ' '
+    a_string2 += int_func(item) + ' '
 print(a_string)
 print(a_string2[:-1])

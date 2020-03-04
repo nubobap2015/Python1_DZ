@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="32d6895e-2181-410e-bbd2-d6d1dffb823b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_dz3_Sergey_Kopeykin.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_dz3_Sergey_Kopeykin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_dz3_Sergey_kopeykin.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_dz3_Sergey_kopeykin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kopeykin_Sergey_dz3.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
-  <component name="RunManager" selected="Python.5_dz3_Sergey_Kopeykin">
+  <component name="RunManager" selected="Python.6_dz3_Sergey_kopeykin">
     <configuration name="2_dz3_Kopeykin_Sergey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DZ_Less_3_Kopeykin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5_dz3_Sergey_Kopeykin" />
         <item itemvalue="Python.6_dz3_Sergey_kopeykin" />
-        <item itemvalue="Python.4_dz3_Sergey_Kopeykin" />
         <item itemvalue="Python.2_dz3_Kopeykin_Sergey" />
         <item itemvalue="Python.3_dz3_Sergey_Kopeykin" />
+        <item itemvalue="Python.4_dz3_Sergey_Kopeykin" />
+        <item itemvalue="Python.5_dz3_Sergey_Kopeykin" />
       </list>
     </recent_temporary>
   </component>
@@ -180,22 +181,22 @@
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
     <state x="611" y="394" width="518" height="296" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/70.27.1610.1023@70.27.1610.1023" timestamp="1583245589066" />
-    <state width="1587" height="266" key="GridCell.Tab.0.bottom" timestamp="1583323305804">
+    <state width="1587" height="266" key="GridCell.Tab.0.bottom" timestamp="1583324762357">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="266" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1583323305804" />
-    <state width="1587" height="266" key="GridCell.Tab.0.center" timestamp="1583323305803">
+    <state width="1587" height="266" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1583324762357" />
+    <state width="1587" height="266" key="GridCell.Tab.0.center" timestamp="1583324762356">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="266" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1583323305803" />
-    <state width="1587" height="266" key="GridCell.Tab.0.left" timestamp="1583323305802">
+    <state width="1587" height="266" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1583324762356" />
+    <state width="1587" height="266" key="GridCell.Tab.0.left" timestamp="1583324762356">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="266" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1583323305802" />
-    <state width="1587" height="266" key="GridCell.Tab.0.right" timestamp="1583323305803">
+    <state width="1587" height="266" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1583324762356" />
+    <state width="1587" height="266" key="GridCell.Tab.0.right" timestamp="1583324762357">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="266" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1583323305803" />
+    <state width="1587" height="266" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1583324762357" />
     <state width="1587" height="328" key="GridCell.Tab.1.bottom" timestamp="1583320928500">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
